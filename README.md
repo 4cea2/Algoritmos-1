@@ -11,6 +11,6 @@ Tiene como objetivo aplicar conocimientos sobre encapsulamiento en Tipos de Dato
 
 El resultado fue generar una escena con dimensiones y formatos a eleccion.
 
-Esta escena cuenta con varios objetos, como esferas, planos, triangulos y objetos STL.
+Esta escena cuenta con varios objetos, como esferas, planos, triangulos y mallas STL.
 
 ![escena_final](tp/final.bmp)
